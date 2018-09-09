@@ -121,9 +121,6 @@
       </geometry>
     </visual>
 
-    <geometry>
-      <cylinder radius="0.1" length="0.05"/>
-    </geometry>
   </link>
 
   <joint type="continuous" name="left_wheel_hinge">
