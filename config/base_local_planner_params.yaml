@@ -1,4 +1,4 @@
 TrajectoryPlannerROS:
 
   holonomic_robot: false
-  sim_time: 5.0
+  sim_time: 10.0  #http://kaiyuzheng.me/documents/navguide.pdf
