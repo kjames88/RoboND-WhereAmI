@@ -1,6 +1,6 @@
 # RoboND-WhereAmI
 
-##User robot files:
+## User robot files:
 
 urdf/kevin_bot.xacro
 
@@ -15,7 +15,7 @@ launch/robot_description_kevinbot.launch
 launch/udacity_world_kevinbot.launch
 
 
-##Launch instructions:
+## Launch instructions:
 
 Terminal 1:
 
